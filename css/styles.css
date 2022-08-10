@@ -113,7 +113,7 @@ h2 {
 	font-size: 40px;
 	color: #c24d7e;
 	margin: 0;
-	padding-bottom: 16px;
+	padding-bottom: 15px;
 	font-variant: small-caps;
 }
 /* Header 
@@ -344,9 +344,9 @@ margin:0 6px;
 font-size:26px;
 }
 .banner-content .social-icons a:hover {
-background:#073763;
+background:#CF7198;
 color:#fff;
-border: 1px solid #073763;
+border: 1px solid #fff;
 }
 .banner-content .hireMe:hover{
 background:#073763;
@@ -366,6 +366,7 @@ margin-top:25px;
 .banner-content header  h1{
  text-align:center;
  margin: 0;
+ margin-top: 0;
 padding: 0;
 font-size: 4.5em;
 font-weight: 700;
@@ -453,7 +454,7 @@ float: none;
 	border: 2px solid rgba(255, 255, 255, 0.6);
 }
 .secPad {
-	padding: 60px 0;
+	padding: 20px 0;
 }
 /*Intro Content*/
 #introText {

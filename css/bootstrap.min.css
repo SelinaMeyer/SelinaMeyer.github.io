@@ -429,7 +429,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
 
 h1, h2, h3 {
     margin-top: 20px;
-    margin-bottom:10px
+    margin-bottom:0px
 }
 
 h4, h5, h6 {
@@ -668,6 +668,7 @@ pre code {
 .container {
     padding-right: 15px;
     padding-left: 15px;
+    padding-bottom: 15px;
     margin-right: auto;
     margin-left:auto
 }
@@ -4412,7 +4413,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
 }
 
 .label-info {
-    background-color:#5bc0de
+    background-color:#CF7198;
 }
 
 .label-info[href]:hover, .label-info[href]:focus {
