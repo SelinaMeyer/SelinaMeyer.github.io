@@ -4421,7 +4421,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
 }
 
 .label-warning {
-    background-color:#f0ad4e
+    background-color:#ffff
 }
 
 .label-warning[href]:hover, .label-warning[href]:focus {
