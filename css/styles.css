@@ -35,7 +35,7 @@ p {
 	color: #fff;
 }
 .pDark h3 {
-	color: #BEBEBE;
+	color: #fff;
 }
 .btn, .form-control, .team-socials i {
 	border-radius: 0px !important;
@@ -127,8 +127,8 @@ h2 {
 	top: 0px;
 }
 .navbar-inverse .navbar-toggle {
-	border-color: #073763;
-	background-color: #073763;
+	border-color: #c24d7e;
+	background-color: #fff;
 }
 .header .navbar {
 	margin: 0;
@@ -138,7 +138,7 @@ h2 {
 	background-color: #444C51;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background: #073763;
+	background: #c24d7e;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 	color: #fff;
@@ -1002,9 +1002,9 @@ color: #fff;
     color: #5E5E5E;
 }
 .tileBox p {
-    background-color: #F0F0F0;
+    background-color: #444C51;
     font-size: 18px;
-    color: #777;
+    color: #fff;
     padding: 20px;
     margin: 0px;
 }
@@ -1044,7 +1044,7 @@ display: inline-block;
 padding:0px;
 }
 .header #mainNav{
-background:#ddd !important;
+background:#444C51 !important;
 padding:0px 15px;
 }
 .heroText {
